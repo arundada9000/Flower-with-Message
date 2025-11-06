@@ -1,6 +1,5 @@
 # 🌹 Click the Rose to Reveal Your Love 💕
 
-<img src="./preview/logo-circle.png" height="100">
 <img src="./preview/preview1.png" >
 <img src="./preview/preview2.png" >
 
@@ -76,3 +75,8 @@ Made By **Arun Neupane**
 **For educational purpose** on **code_with_ease** youtube channel.
 
 I hereby declare anybody can use this code to their liking, but i donot give any permission over images , music or names used in this code so keep that in mind.
+
+Couldn't edit it ?
+Video Link : 
+
+<img src="./preview/logo-circle.png">
