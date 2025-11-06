@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- 
+created by Arun Neupane for code with ease youtube 
+-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords"
+        content="arun neupane, arundada9000, code with ease, love, first love, one sided love, love you forever, impress your girl">
+    <meta name="description" content="Rose for you my love.">
+    <meta property="og:image" content="./assets/rose.png" />
+    <link rel="icon" href="./heart-icons/red-heart-32.png" type="image/png">
+    <link href="https://fonts.font.im/css?family=Sacramento" rel="stylesheet">
+    <link rel="stylesheet" href="./styles.css">
+
+    <title>Rose for Emma</title>
+
+</head>
+
+<body>
+    <audio src="./music/music.mp3" loop></audio>
+    <div class="container">
+        <div class="letter">
+            <h1 id="text">Your smile is as beautiful as rose, I hope you can always smile. (✿◡w◡)</h1>
+        </div>
+        <div class="rose">
+            <img src="./assets/image1.jpg" alt="Girl Image" class="image">
+            <div class="rose-after-class">
+                <div class="flower">
+                    <div class="petal"></div>
+                    <div class="petal"></div>
+                    <div class="petal"></div>
+                    <div class="petal"></div>
+                    <div class="petal"></div>
+                </div>
+                <div class="leaf">
+                    <div class="stem"></div>
+                    <div class="leafs"></div>
+                    <div class="leafs"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        let playing = false;
+        const audio = document.querySelector("audio");
+        audio.currentTime = 49.5;
+        const text = document.getElementById("text");
+        const text1 = "Your smile is as beautiful as rose, I hope you can always smile, My Pukuu (✿◡w◡)";
+        const text2 = "I love you , I love you , I love you , I love you , I love you 9000 ξξ(∵◕◡◕∵)ξξ";
+
+        document.querySelector(".rose-after-class").addEventListener("click", () => {
+            document.querySelector(".rose-after-class").classList.toggle("rose-after");
+            document.querySelector(".image").classList.toggle("show");
+            document.querySelector(".rose").classList.toggle("rose-container");
+            document.querySelectorAll(".leafs").forEach(leaf => leaf.classList.toggle("dead"));
+            document.querySelectorAll(".petal").forEach(leaf => leaf.classList.toggle("dead-petal"));
+            document.querySelector(".stem").classList.toggle("gray");
+            playing = !playing;
+            playing ? audio.play() : audio.pause();
+            playing ? text.textContent = text2 : text.textContent = text1;
+        });
+    </script>
+</body>
+
+</html>
