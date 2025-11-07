@@ -1,13 +1,26 @@
 # 🌹 Click the Rose to Reveal Your Love 💕
 
+[Live Demo: https://arundada9000.github.io/Flower-with-Message/](https://arundada9000.github.io/Flower-with-Message/)
+
+## Desktop preview
+
 <img src="./preview/preview1.png" >
 <img src="./preview/preview2.png" >
+
+---
+
+## Mobile Preview
+
+<p align="center">
+
+<img src="./preview/mobile-preview1.png" height="400">
+<img src="./preview/mobile-preview2.png" height="400">
+</p>
+---
 
 A romantic and playful experience where a simple click turns a blooming rose into a heartfelt surprise 🌷 — revealing **her photo** and showing how even the most beautiful rose fades before her charm 💖.
 
 ---
-
-[🎯 Live Demo: https://arundada9000.github.io/Flower-with-Message/](https://arundada9000.github.io/Flower-with-Message/)
 
 ## 🛠️ How to Customize It
 
@@ -68,15 +81,16 @@ Feel free to reach out through any of the platforms below:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arundada9000)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/arundada9000) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arundada9000)
 
-_Made with ❤️ and a bit of moonlight
-I couldn’t send it to her, I hope you can 😁😁_
+_Made with ❤️ and a bit of Rose._
+
+_I couldn’t send it to her, I hope you can 😁😁_
 
 Made By **Arun Neupane**
 **For educational purpose** on **code_with_ease** youtube channel.
 
 I hereby declare anybody can use this code to their liking, but i donot give any permission over images , music or names used in this code so keep that in mind.
 
-Couldn't edit it ?
-Video Link : 
+_Couldn't edit it ?_
+**Tutorial Link**:
 
-<img src="./preview/logo-circle.png">
+<img src="./preview/logo-circle.png" height="200">
